@@ -5,15 +5,13 @@ Check out [CineMatch](http://cinematch.s3-website-us-east-1.amazonaws.com/) onli
 
 
 ## TO USE:
-- Clone both repos
+- Clone [Front End](https://github.com/2012JavaReston/MovieApp-FrontEnd)
+- Clone [Back End](https://github.com/2012JavaReston/MovieApp-BackEnd)
 - Import BackEnd into Spring Boot
 - Run on Server
 - Enter directory that holds front end
 - Run 'npm install' in command line
 - Run ' ng serve -o' to run Angular front end
-[Front End](https://github.com/2012JavaReston/MovieApp-FrontEnd)
-[Back End](https://github.com/2012JavaReston/MovieApp-BackEnd)
-
 
 ## Project Description
 CineMatch is a movie database where users can explore new movies, search movies, and get detailed information about movies. Users will be able to login/register, add movies to a “Favorites” and a “Want to Watch” list, and also be able to search for movies and post/view reviews.
