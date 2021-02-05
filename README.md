@@ -3,8 +3,18 @@
 CineMatch will facilitate users' decisions on which movie to watch, by providing them with movie recommendations. Users are able to search for movies on an online database. They can register for an account, allowing them to add movies to their "Favorites" and "Want a Watch" lists, as well as post and view reviews for movies.
 Check out [CineMatch](http://cinematch.s3-website-us-east-1.amazonaws.com/) online! Use FireFox for the best experience.
 
+
+## TO USE:
+- Clone both repos
+- Import BackEnd into Spring Boot
+- Run on Server
+- Enter directory that holds front end
+- Run 'npm install' in command line
+- Run ' ng serve -o' to run Angular front end
 [Front End](https://github.com/2012JavaReston/MovieApp-FrontEnd)
 [Back End](https://github.com/2012JavaReston/MovieApp-BackEnd)
+
+
 ## Project Description
 CineMatch is a movie database where users can explore new movies, search movies, and get detailed information about movies. Users will be able to login/register, add movies to a “Favorites” and a “Want to Watch” list, and also be able to search for movies and post/view reviews.
 
